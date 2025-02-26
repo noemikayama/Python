@@ -1,0 +1,9 @@
+#Exemplos usando o MÉTODO format
+nome = "Ana Beatriz"
+idade = 30
+peso = 49.56345
+print("Nome: {} \t idade: {} anos peso: {} kg\n" .format(nome, idade, peso)) 
+print("Nome: {:15} \tIdade: {:3} anos\tPeso:{:.2f}Kg\n" .format(nome, idade, peso)) 
+print("Nome: {:<15} \tIdade: {:<3}anos\tPeso:{:.2f}Kg\n" .format(nome, idade, peso)) 
+print("Nome: {:>15} \tIdade: {:>3}anos\tPeso:{:.2f}Kg\n" .format(nome, idade, peso)) 
+print("Nome: {:^15} \tIdade: {:^3}anos\tPeso:{:.2f}Kg\n" .format(nome, idade, peso))

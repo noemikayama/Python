@@ -29,3 +29,4 @@ print(f"\n\tTAMANHO '8' UMA CASA DECIMAL ESQUERDA => Valor de B ={B:<8.1f}")
 print(f"\n\tTAMANHO '8' UMA CASA DECIMAL CENTRO => Valor de B ={B:^8.1f}")
 print(f"\n\tTAMANHO '8' UMA CASA DECIMAL DIREITA => Valor de B ={B:>8.1f}")
 print("\n===============================================================\n")
+

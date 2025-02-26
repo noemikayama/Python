@@ -19,4 +19,3 @@ print(" Nome: {:<15} \t Idade: {:<3}anos \t Peso:{:.2f}kg\n" .format(nome, idade
 print(" Nome: {:>15} \t Idade: {:>3}anos \t Peso:{:.2f}kg\n" .format(nome, idade, peso)) 
 # Alinhado/identado no centro
 print(" Nome: {:^15} \t Idade: {:^3}anos \t Peso:{:.2f}kg\n" .format(nome, idade, peso))
-

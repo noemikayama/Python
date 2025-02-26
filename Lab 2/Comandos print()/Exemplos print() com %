@@ -8,10 +8,10 @@ idade = 16
 
 # Sem formatação definida
 print("\n Sem formatação -> idade %d \n" %idade)
-# Especificando 5 casas/espaços, alinhado/idento a partir da direita
+# Especificando 5 casas/espaços, alinhado/identado a partir da direita
 print(" Especificando 5 espaços, idento a partir da direita -> idade %5d \n" %idade)
-# 5 espaços com zeros nos espaços vazios, alinhado/idento a partir da direita
+# 5 espaços com zeros nos espaços vazios, alinhado/identado a partir da direita
 print(" 5 espaços, com zeros, idento a partir da direita -> idade %05d \n" %idade)
-# 5 espaços, alinhado/idento a partir da esquerda
+# 5 espaços, alinhado/identado a partir da esquerda
 print(" 5 espaços, idento a partir da equerda -> idade %-5d \n" %idade)
 

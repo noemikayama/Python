@@ -1,0 +1,11 @@
+num = int(input("\n Insert an integer number: "))
+
+inverted = 0
+inverted = (inverted * 10) + (num % 10)
+num = num // 10
+inverted = (inverted * 10) + (num % 10)
+num = num // 10
+inverted = (inverted * 10) + (num % 10)
+
+print("\n\n\t The inverted number is: ", inverted, "\n\n")
+

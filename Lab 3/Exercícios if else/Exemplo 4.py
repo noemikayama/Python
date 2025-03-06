@@ -10,3 +10,5 @@ if (remainder == 0):
 # Remainder is 1 -> odd
 else:
     print("\n\n\t Number is odd \n\n")
+
+    

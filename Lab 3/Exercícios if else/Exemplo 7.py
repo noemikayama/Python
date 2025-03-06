@@ -12,3 +12,4 @@ elif (x == 1):
 else:
     y = x ** 2
 print(f"\n\n\t So x = {x:.2f} and y = {y:.2f} \n\n")
+

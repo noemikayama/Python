@@ -1,4 +1,4 @@
-# Program that giver you the smallest number out of 100 numbers
+# Program that gives you the smallest number out of 100 numbers
 
 count = 0
 small = 99

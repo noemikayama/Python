@@ -3,7 +3,7 @@
 count = 1
 small = int(input("\n\n Insert number: "))
 
-while (count < 100):
+while (count < 10):
     num = int(input("\n Insert number: "))
     if (num < small):
         small = num

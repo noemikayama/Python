@@ -1,3 +1,4 @@
+# Programa que pega n números inseridos, soma os pares e conta os ímpares
 
 n = int(input("\n\n Digite a quantidade de números a ser lida: "))
 contImpar = 0
